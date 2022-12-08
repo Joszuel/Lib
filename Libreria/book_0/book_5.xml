@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El bosque oscuro</title>
+  <id>urn:book:d7e93089-1d9f-41e9-bf21-487c52ba1121</id>
+  <updated>2022-12-08T03:28:54Z</updated>
+  <link href="./book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El bosque oscuro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Josz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Josz" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authors_0/authors_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Liu Cixin" />
+  <link href="../../Liu%20Cixin/El%20bosque%20oscuro%20%285%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Liu%20Cixin/El%20bosque%20oscuro%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Liu%20Cixin/El%20bosque%20oscuro%20%285%29/El%20bosque%20oscuro%20-%20Liu%20Cixin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <author>
+    <name>Liu Cixin</name>
+    <uri>../authors_0/authors_1_Page_1.xml</uri>
+  </author>
+  <published>2008-05-01T04:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Ciencia ficción" />
+  <category term="Trilogía de los Tres Cuerpos" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 2 en la Trilogía de los Tres Cuerpos serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Ciencia ficción
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Ahora la Tierra tiene cuatro siglos para defenderse de lo
+    inevitable: la llegada de los Trisolaris. Los colaboracionistas
+    humanos pueden haber sido derrotados, pero los sofones permiten
+    a los extraterrestres acceder a la información de la
+    humanidad, dejando al descubierto toda estrategia de defensa.
+    Solo la mente humana sigue siendo un secreto, y ahora
+    también la clave del acuciante plan que urdirán tres
+    estadistas, un científico y un sociólogo.</p>
+  </content>
+  <link href="../series_0/series_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 2 en la Trilogía de los Tres Cuerpos serie" />
+  <link href="../authors_0/authors_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Liu Cixin" />
+  <link href="http://www.goodreads.com/book/title/El%20bosque%20oscuro" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/El%20bosque%20oscuro" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/El%20bosque%20oscuro%20Liu%20Cixin" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20bosque%20oscuro&amp;field-author=Liu%20Cixin" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Liu%20Cixin" type="text/html" rel="related" title="Liu Cixin en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Liu%20Cixin" type="text/html" rel="related" title="Liu Cixin en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/CixinLiu" type="text/html" rel="related" title="Liu Cixin en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Liu%20Cixin" type="text/html" rel="related" title="Liu Cixin en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Liu%20Cixin" type="text/html" rel="related" title="Liu Cixin en ISFDB" target="_blank" />
+</entry>

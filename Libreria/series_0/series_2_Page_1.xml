@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Warhammer 40000 - Herejía de Horus</title>
+  <id>Calibre2opds::serieslistseries:2</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Warhammer 40000 - Herejía de Horus" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Josz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Josz" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <entry>
+    <title>1 - Horus, señor de la guerra</title>
+    <id>calibre:book:4</id>
+    <updated>2022-12-08T03:26:53Z</updated>
+    <link href="../../Dan%20Abnett/Horus%2C%20senor%20de%20la%20guerra%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dan%20Abnett/Horus%2C%20senor%20de%20la%20guerra%20%284%29/Horus%2C%20senor%20de%20la%20guerra%20-%20Dan%20Abnett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Dan Abnett</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <published>2006-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Ciencia ficción" />
+    <category term="Warhammer 40000 - Herejía de Horus" />
+    <summary>Warhammer 40000 - Herejía de Horus [1]: Horus, Señor de la Guerra: En esta serie se relatan hechos que suceden 10000 años antes que los referidos en las novelas de Warhammer 40000. Por este motivo se trata de una serie imprescindible para los aficion...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

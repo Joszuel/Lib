@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La llave de plata</title>
+  <id>urn:book:c8fde5b1-855a-46fb-a884-0c6c3a578020</id>
+  <updated>2022-12-08T03:28:57Z</updated>
+  <link href="./book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La llave de plata" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Josz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Josz" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../../H.%20P.%20Lovecraft/La%20llave%20de%20plata%20%286%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../H.%20P.%20Lovecraft/La%20llave%20de%20plata%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../H.%20P.%20Lovecraft/La%20llave%20de%20plata%20%286%29/La%20llave%20de%20plata%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="149 KB" />
+  <author>
+    <name>H. P. Lovecraft</name>
+    <uri>../authors_0/authors_5_Page_1.xml</uri>
+  </author>
+  <published>2003-01-01T04:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <category term="Terror" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Terror
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Randolph Carter descubre una extraña llave de plata en
+    un cofre que contiene también un pergamino con
+    indescifrables descripciones. Poco tiempo después
+    desaparece tras ser visto cerca del lugar donde
+    transcurrió su infancia, un lugar cargado de misterios y
+    de antiguas historias de brujería, un mundo de sueños
+    se abrirá al traspasar la puerta que le abre la llave,
+    pero, ¿habrá retorno?. Cierto tiempo más tarde,
+    un grupo de familiares y algún que otro desconocido se
+    reúnen para repartir la herencia del desaparecido Carter,
+    pero en esa reunión se planteará la incógnita
+    sobre la certeza de la desaparición de Carter; la
+    respuesta, en las páginas de La Llave De Plata.</p>
+  </content>
+  <link href="../authors_0/authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de H. P. Lovecraft" />
+  <link href="http://www.goodreads.com/book/title/La%20llave%20de%20plata" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/La%20llave%20de%20plata" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/La%20llave%20de%20plata%20H.%20P.%20Lovecraft" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20llave%20de%20plata&amp;field-author=H.%20P.%20Lovecraft" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/H.%20P.%20Lovecraft" type="text/html" rel="related" title="H. P. Lovecraft en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/H.%20P.%20Lovecraft" type="text/html" rel="related" title="H. P. Lovecraft en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/LovecraftH.P." type="text/html" rel="related" title="H. P. Lovecraft en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=H.%20P.%20Lovecraft" type="text/html" rel="related" title="H. P. Lovecraft en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?H.%20P.%20Lovecraft" type="text/html" rel="related" title="H. P. Lovecraft en ISFDB" target="_blank" />
+</entry>

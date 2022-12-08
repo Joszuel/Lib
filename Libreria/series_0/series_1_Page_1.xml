@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Trilogía de los Tres Cuerpos</title>
+  <id>Calibre2opds::serieslistseries:1</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Trilogía de los Tres Cuerpos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Josz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Josz" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series:" />
+  <entry>
+    <title>1 - El problema de los Tres Cuerpos</title>
+    <id>calibre:book:1</id>
+    <updated>2022-12-08T03:26:44Z</updated>
+    <link href="../../Liu%20Cixin/El%20problema%20de%20los%20Tres%20Cuerpos%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Liu%20Cixin/El%20problema%20de%20los%20Tres%20Cuerpos%20%281%29/El%20problema%20de%20los%20Tres%20Cuerpos%20-%20Liu%20Cixin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Liu Cixin</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2007-01-01T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia ficción" />
+    <category term="Trilogía de los Tres Cuerpos" />
+    <summary>Trilogía de los Tres Cuerpos [1]: Este libro ofrece la posibilidad única de acercarse al fenómeno editorial chino que ha conquistado el mundo y ha ganado el premio Hugo 2015 a la mejor novela, siendo la primera vez que una obra no escrita originariam...</summary>
+    <link href="../book_0/book_1.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - El bosque oscuro</title>
+    <id>calibre:book:5</id>
+    <updated>2022-12-08T03:28:54Z</updated>
+    <link href="../../Liu%20Cixin/El%20bosque%20oscuro%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Liu%20Cixin/El%20bosque%20oscuro%20%285%29/El%20bosque%20oscuro%20-%20Liu%20Cixin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Liu Cixin</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2008-05-01T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia ficción" />
+    <category term="Trilogía de los Tres Cuerpos" />
+    <summary>Trilogía de los Tres Cuerpos [2]: Ahora la Tierra tiene cuatro siglos para defenderse de lo inevitable: la llegada de los Trisolaris. Los colaboracionistas humanos pueden haber sido derrotados, pero los sofones permiten a los extraterrestres acceder ...</summary>
+    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - El fin de la muerte</title>
+    <id>calibre:book:7</id>
+    <updated>2022-12-08T03:29:00Z</updated>
+    <link href="../../Liu%20Cixin/El%20fin%20de%20la%20muerte%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Liu%20Cixin/El%20fin%20de%20la%20muerte%20%287%29/El%20fin%20de%20la%20muerte%20-%20Liu%20Cixin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Liu Cixin</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2010-01-01T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia ficción" />
+    <category term="Trilogía de los Tres Cuerpos" />
+    <summary>Trilogía de los Tres Cuerpos [3]: Tras El problema de los tres cuerpos y El bosque oscuro, la tensa espera de la humanidad concluye ahora con un último episodio, tan extraordinario como los anteriores, lleno de ideas electrizantes y una calidad de ob...</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

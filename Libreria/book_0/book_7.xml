@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El fin de la muerte</title>
+  <id>urn:book:f63d3e7d-01f3-4b05-8eb5-fe6ac3ded7d4</id>
+  <updated>2022-12-08T03:29:00Z</updated>
+  <link href="./book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El fin de la muerte" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Josz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Josz" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authors_0/authors_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Liu Cixin" />
+  <link href="../../Liu%20Cixin/El%20fin%20de%20la%20muerte%20%287%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Liu%20Cixin/El%20fin%20de%20la%20muerte%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Liu%20Cixin/El%20fin%20de%20la%20muerte%20%287%29/El%20fin%20de%20la%20muerte%20-%20Liu%20Cixin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+  <author>
+    <name>Liu Cixin</name>
+    <uri>../authors_0/authors_1_Page_1.xml</uri>
+  </author>
+  <published>2010-01-01T04:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Ciencia ficción" />
+  <category term="Trilogía de los Tres Cuerpos" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 3 en la Trilogía de los Tres Cuerpos serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Ciencia ficción
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Tras El problema de los tres cuerpos y El bosque oscuro, la
+    tensa espera de la humanidad concluye ahora con un último
+    episodio, tan extraordinario como los anteriores, lleno de
+    ideas electrizantes y una calidad de obra maestra. Ha pasado
+    medio siglo de la batalla del Día del Juicio Final y la
+    Tierra goza de una prosperidad sin precedentes gracias al
+    conocimiento transferido por Trisolaris. Mientras la ciencia
+    humana avance y los trisolarianos adopten la cultura
+    terrícola, ambas civilizaciones podrán convivir sin
+    temor a ser destruidas. Pero con la paz la humanidad se ha
+    vuelto autocomplaciente. Después de una larga
+    hibernación, Cheng Xin, una ingeniera aeroespacial de
+    comienzos del siglo XX, despierta en esta nueva era. Su mera
+    presencia, sumada a cierta información sobre un proyecto
+    olvidado desde el principio de la Crisis Trisolariana,
+    podría alterar el frágil equilibrio entre ambos
+    mundos… ¿Alcanzará el ser humano las estrellas,
+    o morirá en su cuna?</p>
+  </content>
+  <link href="../series_0/series_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 3 en la Trilogía de los Tres Cuerpos serie" />
+  <link href="../authors_0/authors_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Liu Cixin" />
+  <link href="http://www.goodreads.com/book/title/El%20fin%20de%20la%20muerte" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/El%20fin%20de%20la%20muerte" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/El%20fin%20de%20la%20muerte%20Liu%20Cixin" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20fin%20de%20la%20muerte&amp;field-author=Liu%20Cixin" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Liu%20Cixin" type="text/html" rel="related" title="Liu Cixin en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Liu%20Cixin" type="text/html" rel="related" title="Liu Cixin en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/CixinLiu" type="text/html" rel="related" title="Liu Cixin en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Liu%20Cixin" type="text/html" rel="related" title="Liu Cixin en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Liu%20Cixin" type="text/html" rel="related" title="Liu Cixin en ISFDB" target="_blank" />
+</entry>

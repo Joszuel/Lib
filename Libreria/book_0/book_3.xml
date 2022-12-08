@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tetralogía El Cementerio de los Libros Olvidados</title>
+  <id>urn:book:5a0261c6-590d-42b3-b4ca-d384969e01f0</id>
+  <updated>2022-12-08T03:26:50Z</updated>
+  <link href="./book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Tetralogía El Cementerio de los Libros Olvidados" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Josz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Josz" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../../Carlos%20Ruiz%20Zafon/Tetralogia%20El%20Cementerio%20de%20los%20Libr%20%283%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Carlos%20Ruiz%20Zafon/Tetralogia%20El%20Cementerio%20de%20los%20Libr%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Carlos%20Ruiz%20Zafon/Tetralogia%20El%20Cementerio%20de%20los%20Libr%20%283%29/Tetralogia%20El%20Cementerio%20de%20los%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+  <author>
+    <name>Carlos Ruiz Zafón</name>
+    <uri>../authors_0/authors_3_Page_1.xml</uri>
+  </author>
+  <published>2016-12-12T04:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>ePubLibre</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Intriga" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Novela, Intriga
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">«La sombra del viento», «El Juego del
+    Ángel», «El prisionero del cielo» y
+    «El laberinto de los Espíritus» forman parte de
+    un ciclo de novelas que se entrecruzan en el universo literario
+    de «El Cementerio de los Libros Olvidados». Las
+    novelas que forman este ciclo están unidas entre sí a
+    través de personajes e hilos argumentales que tienden
+    puentes narrativos y temáticos, aunque cada uno de ellos
+    ofrece una historia cerrada, independiente y contenida en
+    sí misma. Las diversas entregas de la serie pueden leerse
+    en cualquier orden o por separado, permitiendo al lector
+    explorar y acceder al laberinto de historias a través de
+    diferentes puertas y caminos que, anudados, le conducirán
+    al corazón de la narración.</p>
+  </content>
+  <link href="../authors_0/authors_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Carlos Ruiz Zafón" />
+  <link href="http://www.goodreads.com/book/title/Tetralog%C3%ADa%20El%20Cementerio%20de%20los%20Libros%20Olvidados" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Tetralog%C3%ADa%20El%20Cementerio%20de%20los%20Libros%20Olvidados" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Tetralog%C3%ADa%20El%20Cementerio%20de%20los%20Libros%20Olvidados%20Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Tetralog%C3%ADa%20El%20Cementerio%20de%20los%20Libros%20Olvidados&amp;field-author=Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Carlos Ruiz Zafón en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Carlos Ruiz Zafón en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/Zaf%C3%B3nCarlosRuiz" type="text/html" rel="related" title="Carlos Ruiz Zafón en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Carlos Ruiz Zafón en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Carlos%20Ruiz%20Zaf%C3%B3n" type="text/html" rel="related" title="Carlos Ruiz Zafón en ISFDB" target="_blank" />
+</entry>

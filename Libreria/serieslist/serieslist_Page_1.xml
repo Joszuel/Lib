@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series:</title>
+  <id />
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series:" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Josz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Josz" />
+  <entry>
+    <title>Trilogía de los Tres Cuerpos</title>
+    <id>Calibre2opds::serieslistseries:1</id>
+    <content type="text">3 libros</content>
+    <link href="../series_0/series_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Warhammer 40000 - Herejía de Horus</title>
+    <id>Calibre2opds::serieslistseries:2</id>
+    <content type="text">Horus, señor de la guerra</content>
+    <link href="../series_0/series_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Fernando Savater</title>
+  <id>Calibre2opds:authors:2</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Fernando Savater" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Josz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Josz" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <entry>
+    <title>Ética para Amador</title>
+    <id>calibre:book:2</id>
+    <updated>2022-12-08T03:26:47Z</updated>
+    <link href="../../Fernando%20Savater/Etica%20para%20Amador%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fernando%20Savater/Etica%20para%20Amador%20%282%29/Etica%20para%20Amador%20-%20Fernando%20Savater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="194 KB" />
+    <author>
+      <name>Fernando Savater</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <published>1991-01-26T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <summary>Es el mejor manual de ética para la juventud. Lo avalan las treinta lenguas a que está traducido y los más de 40 países registrados que lo han adoptado como esencial para la educación. Un clásico indiscutible.</summary>
+    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

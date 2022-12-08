@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Horus, señor de la guerra</title>
+  <id>urn:book:87525abb-fc21-4a33-88fa-3e7458afc87c</id>
+  <updated>2022-12-08T03:26:53Z</updated>
+  <link href="./book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Horus, señor de la guerra" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Josz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Josz" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authors_0/authors_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dan Abnett" />
+  <link href="../../Dan%20Abnett/Horus%2C%20senor%20de%20la%20guerra%20%284%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Dan%20Abnett/Horus%2C%20senor%20de%20la%20guerra%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Dan%20Abnett/Horus%2C%20senor%20de%20la%20guerra%20%284%29/Horus%2C%20senor%20de%20la%20guerra%20-%20Dan%20Abnett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <author>
+    <name>Dan Abnett</name>
+    <uri>../authors_0/authors_4_Page_1.xml</uri>
+  </author>
+  <published>2006-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <category term="Ciencia ficción" />
+  <category term="Warhammer 40000 - Herejía de Horus" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 1 en la Warhammer 40000 - Herejía de Horus serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Ciencia ficción
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Horus, Señor de la Guerra: En esta serie se relatan
+    hechos que suceden 10000 años antes que los referidos en
+    las novelas de Warhammer 40000. Por este motivo se trata de una
+    serie imprescindible para los aficionados que quieran conocer
+    el origen de episodios y personajes de otras novelas.“Yo
+    estaba allí el día que Horus mató al
+    Emperador”Durante miles de años, violentas tormentas
+    de disformidad han rugido de un extremo a otro de la galaxia,
+    aislando el otrora orgulloso Imperio de la Humanidad y
+    reduciéndolo a un puñado de planetas autosuficientes,
+    sin capacidad de viajar o comunicarse entre ellos.</p>
+  </content>
+  <link href="../series_0/series_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 1 en la Warhammer 40000 - Herejía de Horus serie" />
+  <link href="../authors_0/authors_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Dan Abnett" />
+  <link href="http://www.goodreads.com/book/title/Horus%2C%20se%C3%B1or%20de%20la%20guerra" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Horus%2C%20se%C3%B1or%20de%20la%20guerra" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Horus%2C%20se%C3%B1or%20de%20la%20guerra%20Dan%20Abnett" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Horus%2C%20se%C3%B1or%20de%20la%20guerra&amp;field-author=Dan%20Abnett" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Dan%20Abnett" type="text/html" rel="related" title="Dan Abnett en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Dan%20Abnett" type="text/html" rel="related" title="Dan Abnett en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/AbnettDan" type="text/html" rel="related" title="Dan Abnett en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Dan%20Abnett" type="text/html" rel="related" title="Dan Abnett en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Dan%20Abnett" type="text/html" rel="related" title="Dan Abnett en ISFDB" target="_blank" />
+</entry>

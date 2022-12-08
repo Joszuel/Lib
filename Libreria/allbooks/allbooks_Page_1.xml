@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todos los libros</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Todos los libros" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Josz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Josz" />
+  <entry>
+    <title>El problema de los Tres Cuerpos</title>
+    <id>calibre:book:1</id>
+    <updated>2022-12-08T03:26:44Z</updated>
+    <link href="../../Liu%20Cixin/El%20problema%20de%20los%20Tres%20Cuerpos%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Liu%20Cixin/El%20problema%20de%20los%20Tres%20Cuerpos%20%281%29/El%20problema%20de%20los%20Tres%20Cuerpos%20-%20Liu%20Cixin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Liu Cixin</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2007-01-01T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia ficción" />
+    <category term="Trilogía de los Tres Cuerpos" />
+    <summary>Trilogía de los Tres Cuerpos [1]: Este libro ofrece la posibilidad única de acercarse al fenómeno editorial chino que ha conquistado el mundo y ha ganado el premio Hugo 2015 a la mejor novela, siendo la primera vez que una obra no escrita originariam...</summary>
+    <link href="../book_0/book_1.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El bosque oscuro</title>
+    <id>calibre:book:5</id>
+    <updated>2022-12-08T03:28:54Z</updated>
+    <link href="../../Liu%20Cixin/El%20bosque%20oscuro%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Liu%20Cixin/El%20bosque%20oscuro%20%285%29/El%20bosque%20oscuro%20-%20Liu%20Cixin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Liu Cixin</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2008-05-01T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia ficción" />
+    <category term="Trilogía de los Tres Cuerpos" />
+    <summary>Trilogía de los Tres Cuerpos [2]: Ahora la Tierra tiene cuatro siglos para defenderse de lo inevitable: la llegada de los Trisolaris. Los colaboracionistas humanos pueden haber sido derrotados, pero los sofones permiten a los extraterrestres acceder ...</summary>
+    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El fin de la muerte</title>
+    <id>calibre:book:7</id>
+    <updated>2022-12-08T03:29:00Z</updated>
+    <link href="../../Liu%20Cixin/El%20fin%20de%20la%20muerte%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Liu%20Cixin/El%20fin%20de%20la%20muerte%20%287%29/El%20fin%20de%20la%20muerte%20-%20Liu%20Cixin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Liu Cixin</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2010-01-01T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia ficción" />
+    <category term="Trilogía de los Tres Cuerpos" />
+    <summary>Trilogía de los Tres Cuerpos [3]: Tras El problema de los tres cuerpos y El bosque oscuro, la tensa espera de la humanidad concluye ahora con un último episodio, tan extraordinario como los anteriores, lleno de ideas electrizantes y una calidad de ob...</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Horus, señor de la guerra</title>
+    <id>calibre:book:4</id>
+    <updated>2022-12-08T03:26:53Z</updated>
+    <link href="../../Dan%20Abnett/Horus%2C%20senor%20de%20la%20guerra%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dan%20Abnett/Horus%2C%20senor%20de%20la%20guerra%20%284%29/Horus%2C%20senor%20de%20la%20guerra%20-%20Dan%20Abnett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Dan Abnett</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <published>2006-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Ciencia ficción" />
+    <category term="Warhammer 40000 - Herejía de Horus" />
+    <summary>Warhammer 40000 - Herejía de Horus [1]: Horus, Señor de la Guerra: En esta serie se relatan hechos que suceden 10000 años antes que los referidos en las novelas de Warhammer 40000. Por este motivo se trata de una serie imprescindible para los aficion...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ética para Amador</title>
+    <id>calibre:book:2</id>
+    <updated>2022-12-08T03:26:47Z</updated>
+    <link href="../../Fernando%20Savater/Etica%20para%20Amador%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fernando%20Savater/Etica%20para%20Amador%20%282%29/Etica%20para%20Amador%20-%20Fernando%20Savater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="194 KB" />
+    <author>
+      <name>Fernando Savater</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <published>1991-01-26T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <summary>Es el mejor manual de ética para la juventud. Lo avalan las treinta lenguas a que está traducido y los más de 40 países registrados que lo han adoptado como esencial para la educación. Un clásico indiscutible.</summary>
+    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Herejia de Horus</title>
+    <id>calibre:book:8</id>
+    <updated>2022-12-08T03:29:03Z</updated>
+    <link href="../../Angel%20Antonio/Herejia%20de%20Horus%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Angel%20Antonio/Herejia%20de%20Horus%20%288%29/Herejia%20de%20Horus%20-%20Angel%20Antonio.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" displaysize="789 KB" />
+    <author>
+      <name>Ángel Antonio</name>
+      <uri>../authors_0/authors_6_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La llave de plata</title>
+    <id>calibre:book:6</id>
+    <updated>2022-12-08T03:28:57Z</updated>
+    <link href="../../H.%20P.%20Lovecraft/La%20llave%20de%20plata%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20P.%20Lovecraft/La%20llave%20de%20plata%20%286%29/La%20llave%20de%20plata%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="149 KB" />
+    <author>
+      <name>H. P. Lovecraft</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Terror" />
+    <summary>Randolph Carter descubre una extraña llave de plata en un cofre que contiene también un pergamino con indescifrables descripciones. Poco tiempo después desaparece tras ser visto cerca del lugar donde transcurrió su infancia, un lugar cargado de miste...</summary>
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tetralogía El Cementerio de los Libros Olvidados</title>
+    <id>calibre:book:3</id>
+    <updated>2022-12-08T03:26:50Z</updated>
+    <link href="../../Carlos%20Ruiz%20Zafon/Tetralogia%20El%20Cementerio%20de%20los%20Libr%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Ruiz%20Zafon/Tetralogia%20El%20Cementerio%20de%20los%20Libr%20%283%29/Tetralogia%20El%20Cementerio%20de%20los%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2016-12-12T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <summary>«La sombra del viento», «El Juego del Ángel», «El prisionero del cielo» y «El laberinto de los Espíritus» forman parte de un ciclo de novelas que se entrecruzan en el universo literario de «El Cementerio de los Libros Olvidados». Las novelas que form...</summary>
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
